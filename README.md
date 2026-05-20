@@ -18,11 +18,6 @@ The Countries Search App is a simple and responsive web application that allows 
 * CSS3
 * Bootstrap
 * JavaScript
-* Fetch API
-
-## API Used
-
-https://apis.ccbp.in/countries-data
 
 ## How It Works
 
